@@ -14,7 +14,7 @@
 * Solidity
 * Web3.js
 
-![](https://komarev.com/ghpvc/?username=kauhaz&color=green)
+![](https://komarev.com/ghpvc/?username=OoHuakoO&color=green)
 ---
 <!--
 **kauhaz/kauhaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
