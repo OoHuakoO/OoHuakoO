@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFlTae_P9s/EieUqpYSyjBjP5ysUphkMQ/view?utm_content=DAFlTae_P9s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFlTae_P9s/EieUqpYSyjBjP5ysUphkMQ/view?utm_content=DAFlTae_P9s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **I Think I'm Funny**
+- ⚡ My Hobby **Play Game Singing Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
