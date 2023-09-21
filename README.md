@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📈 Stats
-![GITHUB_STAT_OVERALL](https://github-readme-stats.vercel.app/api?username=kauhaz&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true&hide_title=false&line_height=21)
-![GITHUB_MOST_USED_LANG_STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=kauhaz&layout=compact)
+
+### Stats:
+
+<div style="display: flex;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10&theme=gruvbox"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=gruvbox"/>
+</div>
