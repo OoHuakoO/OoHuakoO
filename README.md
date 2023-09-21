@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 ### Stats:
 
 <div style="display: flex;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chon26909&layout=compact&langs_count=10&theme=gruvbox"/>
-     <img src="https://github-readme-stats.vercel.app/api?username=chon26909&show_icons=true&theme=gruvbox"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OoHuakoO&layout=compact&langs_count=10&theme=gruvbox"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=OoHuakoO&show_icons=true&theme=gruvbox"/>
 </div>
