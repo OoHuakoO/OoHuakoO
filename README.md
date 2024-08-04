@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm komsak kornprakit My Nickname is Huak</h1>
-<h3 align="center">I'm Full Stack Developer from Thailand</h3>
+<h3 align="center">I'm Full Stack Developer And Singer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OoHuakoO&label=Profile%20views&color=0e75b6&style=flat" alt="OoHuakoO" /> </p>
 
